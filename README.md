@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexandra
+- 👋 Hi, I’m Alexandra Marques
 - 👀 I’m interested in Ciência de Dados
 - 🌱 I’m currently learning Ciência de Dados
 - 💞️ I’m looking to collaborate on ...
