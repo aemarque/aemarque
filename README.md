@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexandra Marques
 - I am Bussiness Analytcs
 - 👀 I’m interested in Ciência de Dados, Inteligência Artificial
-- 🌱 I’m currently learning Ciência de Dados
+- 🌱 I’m currently learning Python, Licenciatura em Informática
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/alexandra-marques77/
 
